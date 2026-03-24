@@ -1,4 +1,5 @@
 ## Hi there 👋
+![Profile views](https://komarev.com/ghpvc/?username=Seoyoung-Kyung&color=ff69b4)
 
 ### Contact
 [![Velog](https://img.shields.io/badge/se0o.log-20C997?style=flat-square&logo=Velog&logoColor=white)](https://velog.io/@se0o_129/posts)
