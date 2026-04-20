@@ -17,3 +17,8 @@
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white"/>
 </div> 
 
+### Stats
+
+![GitHub 통계](https://github-readme-stats.vercel.app/api?username=Seoyoung-Kyung&show_icons=true&theme=radical)
+![GitHub 언어 통계](https://github-readme-stats.vercel.app/api/top-langs/?username=Seoyoung-Kyung&layout=compact&theme=radical)
+
